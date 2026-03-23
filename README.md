@@ -24,8 +24,6 @@ I'm a Software Engineer with an M.S. in Computer Science from RIT, focused on th
 
 What drives me: the belief that the best ML systems are built by engineers who understand the full stack — from TCP socket handling to gradient accumulation, from query execution plans to embedding retrieval latency. I build tools that are fast, observable, and correct.
 
-Currently based in the Research Triangle (NC), exploring roles where systems thinking meets ML at scale.
-
 ---
 
 ## Tech Stack
